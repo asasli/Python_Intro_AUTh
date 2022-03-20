@@ -15,4 +15,15 @@ A first version lives in [v1.0@2021](https://github.com/sfragkoul/Python_Intro) 
   - Functions
   - Modules
 
-2. 
+2. [Introduction to Python : NumPy](https://github.com/asasli/Python_Intro_AUTh/blob/main/Intro_2.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/asasli/Python_Intro_AUTh/blob/main/Intro_2.ipynb)
+
+  - About NumPy
+  - Creating NumPy arrays
+  - Numpy's native file format
+  - Manipulating arrays
+  - Functions for extracting data from arrays
+  - Linear algebra
+  - Data processing
+  - Reshaping, resizing and stacking arrays
+  - Iterating over array elements
+  - Using arrays in conditions
