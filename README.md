@@ -27,3 +27,18 @@ A first version lives in [v1.0@2021](https://github.com/sfragkoul/Python_Intro) 
   - Reshaping, resizing and stacking arrays
   - Iterating over array elements
   - Using arrays in conditions
+
+
+3. [Introduction to Python : Matplotlib](https://github.com/asasli/Python_Intro_AUTh/blob/main/Intro_3.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/asasli/Python_Intro_AUTh/blob/main/Intro_3.ipynb)
+
+  - About Matplotlib
+  - Basic (2D)
+  - Subplots
+  - What Is The Difference Between ```add_axes()``` and ```add_subplot()```
+  - Legend and labels
+  - LaTeX formating
+  - Fontsize and font family
+  - Advance Customization
+  - Custom tick labels and axes
+  - Multiple plots and control over axis appearance
+  - Axis grid
