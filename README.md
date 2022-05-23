@@ -27,8 +27,8 @@ A first version lives in [v1.0@2021](https://github.com/sfragkoul/Python_Intro) 
   - Reshaping, resizing and stacking arrays
   - Iterating over array elements
   - Using arrays in conditions
-
-
+  
+  
 3. [Introduction to Python : Matplotlib](https://github.com/asasli/Python_Intro_AUTh/blob/main/Intro_3.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/asasli/Python_Intro_AUTh/blob/main/Intro_3.ipynb)
 
   - About Matplotlib
@@ -42,3 +42,12 @@ A first version lives in [v1.0@2021](https://github.com/sfragkoul/Python_Intro) 
   - Custom tick labels and axes
   - Multiple plots and control over axis appearance
   - Axis grid
+
+4. [Introduction to Python : Problems](https://github.com/asasli/Python_Intro_AUTh/blob/main/Problems.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/asasli/Python_Intro_AUTh/blob/main/Problems.ipynb)
+
+  - A Brief Review
+  - Machine Precision
+  - Random Distribution
+  - Using one function as an input to another
+  - Examples
+  - Using Python to solve problems in Numerical Analysis
