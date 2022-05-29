@@ -51,3 +51,9 @@ A first version lives in [v1.0@2021](https://github.com/sfragkoul/Python_Intro) 
   - Using one function as an input to another
   - Examples
   - Using Python to solve problems in Numerical Analysis
+ 
+ 5. [Introduction to Python : Classes](https://github.com/asasli/Python_Intro_AUTh/blob/main/Problems.ipynb)   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/asasli/Python_Intro_AUTh/blob/main/Intro_Python_classes.ipynb)
+
+  - Python : An object oriented programming language
+  - How to define a class?
+  - Subclasses
